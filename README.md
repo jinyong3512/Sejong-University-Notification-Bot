@@ -41,7 +41,7 @@ $ (/c 에서) git clone https://github.com/jinyong3512/Sejong-University-Notific
 ### Java
 >IDE로 프로젝트를 열고 **Run Main.java**
 
->(꼭 프로젝트로 Sejong-University-Auto-Apply 열어야함 !)
+>(꼭 프로젝트로 Sejong-University-Notification-Bot 열어야함 !)
 
 >(IDE Intellij 추천!)
 
